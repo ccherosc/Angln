@@ -66,11 +66,6 @@ export default function Hero() {
 
           {/* Right — framed photo card */}
           <div className="hero-visual">
-            <div className="hero-stat-float pos-1">
-              <span className="hero-stat-float-num">22+</span>
-              <span className="hero-stat-float-label">Years on the Water</span>
-            </div>
-
             <div className="hero-photo-frame">
               <img
                 src="/Images/hero-dock.jpg"
@@ -83,10 +78,6 @@ export default function Hero() {
               </div>
             </div>
 
-            <div className="hero-stat-float pos-2">
-              <span className="hero-stat-float-num">SC</span>
-              <span className="hero-stat-float-label">Upstate South Carolina</span>
-            </div>
           </div>
 
         </div>
