@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="12" fill="#0E2444"/>
+  <!-- Simplified fishing hook mark -->
+  <path d="M32 10 C32 10 32 36 32 40 C32 47 26 52 20 48" stroke="#F4B030" stroke-width="4.5" stroke-linecap="round" fill="none"/>
+  <circle cx="32" cy="10" r="4" stroke="#F4B030" stroke-width="3.5" fill="none"/>
+  <path d="M16 44 L22 50" stroke="#F4B030" stroke-width="3.5" stroke-linecap="round"/>
+</svg>
